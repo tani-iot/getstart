@@ -1,6 +1,7 @@
 # การลบโปรแกรมเดิม
 
-คลิปวิดีโอ 
+คลิปวิดีโอ <https://youtu.be/Q3E9x09jWEY
+
 ## 1. การลบ python
 
 เปิด Control Panel

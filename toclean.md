@@ -25,11 +25,15 @@
 ให้ตรวจสอบด้วย File Explorer ในโฟลเดอร์่ต่อไปนี้
 
 ```
-C:\Users\User\AppData\Local\Programs
+C:\Users\User\AppData\Local\Programs\Python
 ```
 
 ```
-C:\Users\User\AppData\Local\Packages
+C:\Users\User\AppData\Local\Programs\pip
+```
+
+```
+C:\Users\User\AppData\Local\Packages\???Python???
 ```
 
 

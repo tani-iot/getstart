@@ -85,7 +85,7 @@ platformio เพื่อใช้ในพัฒนา ไอโอที
 ในหน้าจอแรกของการติดตั้ง ถ้ามีให้เลือก 
 'Add Python to Path' ให้เลือกเช็คด้วย
 
-![add path](images/python-path.png)
+![add path](images/python-path-2.png)
 
 ทำการติดตั้งโปรแกรม python
 
